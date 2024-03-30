@@ -299,6 +299,9 @@
     .navBar{
         font-size: 8px;
     }
+    .section-principal{
+        image-resolution: 50%;
+    }
 
 }
 
